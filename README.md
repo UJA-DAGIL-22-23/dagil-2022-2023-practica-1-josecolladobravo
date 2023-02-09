@@ -6,10 +6,10 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Víctor M. Rivas Santos
-<img src='/vrivas-2022.png' width='200px'>
+<img src='/jcollado.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+Alumno de la asignatura Desarrollo Ágil en la Universidad de Jaén.
+* **Correo**: jcb00029@red.ujaen.es
+* **Web**:
+* **GitHub**: https://github.com/josecolladobravo
+* **Trello**: https://trello.com/b/gMrlDBeh/pr%C3%A1ctica-1
